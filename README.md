@@ -22,4 +22,4 @@ Remini
 I would like to build a food app that allows its users to search for restaurants
 near them. This app should be able to provide more details on each restaurant 
 and the user should be able to favorite any resturant. It should show a interactive
-way to move between screens using similar to a tabbar.
+way to move between screens similar to a bottom tab bar
