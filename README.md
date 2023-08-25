@@ -1,10 +1,10 @@
-Features
+### Features
 - Improved the UI using different colors
 - Facilitated spacing by using a stackview
 - Implemented a way to change the background with a button click
 
 
-App BrainStorming
+### App BrainStorming
 - Tab bar functionality
 - Search functionality
 - TableView scrolling
